@@ -1,1 +1,1 @@
-# Project-Dataset This is just a stoage place for data file for DASI Project 2015!
+# Project-Dataset This is just a storage place for data file for DASI Project 2015!
